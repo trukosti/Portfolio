@@ -1,9 +1,12 @@
 # Portfolio
 My Website Portfolio
-## 🌐 Referans & Canlı Projelerim
 
+## 🌐 Referans & Canlı Projelerim
 Aşağıda geliştirdiğim veya üzerinde çalıştığım websitelerden bazıları listelenmiştir. Her projeye tıklayarak canlı siteyi ziyaret edebilirsiniz.
 
+- [Cananın Pabuçları](https://cananinpabuclari.com.tr)  
+- [Jeyka](https://www.jeyka.com.au)  
+- [Loventino](https://loventino.com.tr)  
 - [Ventus GmbH](https://ventusgmbh.de)  
 - [Tarif Services](https://tarifservices.de)  
 - [Klantenservice24](https://klantenservice24.nl)  
@@ -26,4 +29,3 @@ Aşağıda geliştirdiğim veya üzerinde çalıştığım websitelerden bazıla
 - [KundenServiceDesk](https://kundenservicedesk.de)  
 - [KundenAssist](https://kundenassist.de)  
 - [Gas & Light](https://gasundlight.de)
-
